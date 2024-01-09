@@ -13,7 +13,7 @@ include vendor/xiaomi/marble/BoardConfigVendor.mk
 DEVICE_PATH := device/xiaomi/marble
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := marble,marblein
+TARGET_OTA_ASSERT_DEVICE := marble|marblein
 
 # Properties
 TARGET_ODM_PROP += $(DEVICE_PATH)/properties/odm.prop
