@@ -103,7 +103,7 @@ vendor/bin/batterysecret
 vendor/etc/init/hw/init.batterysecret.rc
 
 # Camera
-vendor/bin/hw/vendor.qti.camera.provider@2.7-service_64
+vendor/bin/hw/vendor.qti.camera.provider@2.7-service_64|974b734b2765afc4185324c0179bd02af67e73d4
 vendor/bin/hw/vendor.xiaomi.hardware.quickcamera@1.0-service
 vendor/etc/camera/102_SummerDay.png
 vendor/etc/camera/103_Fantasy.png
@@ -607,7 +607,7 @@ vendor/lib64/camera/plugins/com.xiaomi.plugin.miaideblur.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.miaiie.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.miaiportraitsupernight.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.mialgoellc.so
-vendor/lib64/camera/plugins/com.xiaomi.plugin.mialgosnsc.so
+vendor/lib64/camera/plugins/com.xiaomi.plugin.mialgosnsc.so|8386cda8a5f22dbd34c7a0b980b75738ef47835f
 vendor/lib64/camera/plugins/com.xiaomi.plugin.mibokeh.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.mifrontbokeh.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.misegment.so
@@ -621,22 +621,22 @@ vendor/lib64/camera/plugins/com.xiaomi.plugin.swjpegencode.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.tsskinbeautifier.so
 vendor/lib64/camx.device@3.2-impl.so
 vendor/lib64/camx.device@3.3-impl.so
-vendor/lib64/camx.device@3.4-ext-impl.so
+vendor/lib64/camx.device@3.4-ext-impl.so|88afcbbd9a6b3f1c788af5a596345d4f9b4d964b
 vendor/lib64/camx.device@3.4-impl.so
-vendor/lib64/camx.device@3.5-ext-impl.so
+vendor/lib64/camx.device@3.5-ext-impl.so|a18f0cd231fa3bff4f3f405074a58da2344f5bab
 vendor/lib64/camx.device@3.5-impl.so
-vendor/lib64/camx.device@3.6-ext-impl.so
+vendor/lib64/camx.device@3.6-ext-impl.so|8c77fe982f40a94287726d89f960d007228fb1bb
 vendor/lib64/camx.device@3.6-impl.so
 vendor/lib64/camx.device@3.7-impl.so
-vendor/lib64/camx.provider@2.4-external.so
-vendor/lib64/camx.provider@2.4-impl.so
-vendor/lib64/camx.provider@2.4-legacy.so
-vendor/lib64/camx.provider@2.5-external.so
-vendor/lib64/camx.provider@2.5-legacy.so
-vendor/lib64/camx.provider@2.6-legacy.so
-vendor/lib64/camx.provider@2.7-legacy.so
+vendor/lib64/camx.provider@2.4-external.so|9ab130e9d3be0be85e4b5db6f94144e2c4ea0977
+vendor/lib64/camx.provider@2.4-impl.so|79cefe19617c2585e8bd8e87666e768dc3fe9407
+vendor/lib64/camx.provider@2.4-legacy.so|c692373ea54c365e3c842648dbf9978bc2b017dd
+vendor/lib64/camx.provider@2.5-external.so|58509520bb162c9d32efb20c0b81d6acde015fd8
+vendor/lib64/camx.provider@2.5-legacy.so|8b7cf027f96e89e7980f04143cd0c05224a61e7a
+vendor/lib64/camx.provider@2.6-legacy.so|e739a82d5a595880c13fe08d2818772ff3b1d1ef
+vendor/lib64/camx.provider@2.7-legacy.so|15b6119fecb17d3f1affde203931155ebb4b663f
 vendor/lib64/com.qti.chiusecaseselector.so
-vendor/lib64/com.qti.feature2.anchorsync.so
+vendor/lib64/com.qti.feature2.anchorsync.so|2c41d7f2354d7ea18555b67251f3e886037abc0d
 vendor/lib64/com.qti.feature2.demux.so
 vendor/lib64/com.qti.feature2.derivedoffline.so
 vendor/lib64/com.qti.feature2.ellcprocess.so
