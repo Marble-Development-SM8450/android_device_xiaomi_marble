@@ -44,3 +44,7 @@ AXION_CAMERA_FRONT_INFO := 16  # Example: 42MP
 
 # Flash Strength
 TORCH_STR_SUPPORTED := true
+
+# refresh rate list (optional) - defining this flags makes the controller skip the parsing of Display.Mode refresh rates
+# for supported refresh rates. The refresh rate controller will also assume that all the defined refresh rates are "supported"
+TARGET_SUPPORTED_REFRESH_RATES := 60,90,120
