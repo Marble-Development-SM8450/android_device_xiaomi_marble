@@ -48,3 +48,9 @@ TORCH_STR_SUPPORTED := true
 # refresh rate list (optional) - defining this flags makes the controller skip the parsing of Display.Mode refresh rates
 # for supported refresh rates. The refresh rate controller will also assume that all the defined refresh rates are "supported"
 TARGET_SUPPORTED_REFRESH_RATES := 60,90,120
+
+# doze gestures
+TARGET_DOZE_TAP_PULSE_SUPPORTED := true
+TARGET_DOZE_DOUBLE_TAP_PULSE_SUPPORTED := true
+TARGET_DOZE_PICKUP_PULSE_SUPPORTED := true
+TARGET_DOZE_SIDE_FPS_PULSE_SUPPORTED := true
