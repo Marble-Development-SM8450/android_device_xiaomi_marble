@@ -9,3 +9,6 @@ persist.vendor.camera.ois.video=1
 
 # Xiaomi
 ro.product.mod_device=marble_global
+
+# maintainer
+ro.lunaris.maintainer=Ashwani | アシュワニ
